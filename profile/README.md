@@ -1,2 +1,2 @@
-# INventiON Game Framework
-New Age Game Framework for type-javascripters
+# INventiON Game Library
+New age game-building library for type-javascripters
